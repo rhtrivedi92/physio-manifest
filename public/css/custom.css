@@ -807,7 +807,7 @@ header.main-header .header-sticky.active {
 /************************************/
 
 .hero {
-  background: var(--primary-color) url("../images/hero-bg.jpg") no-repeat;
+  background: var(--primary-color) url("../images/hero-bg-3.jpg") no-repeat;
   background-position: center center;
   background-size: cover;
   overflow: hidden;
